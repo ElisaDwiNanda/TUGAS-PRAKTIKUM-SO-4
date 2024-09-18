@@ -27,6 +27,7 @@
 - Lampung 
 
 Dengan menggunakan notasi here document (<@@@ …@@@) 
+
 ![VirtualBox_Ubuntu 24 04 LTS_18_09_2024_13_58_15](https://github.com/user-attachments/assets/9f3d6797-f085-46e2-9f63-00eb597853c9)
 
 ## 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan tambahkan data tersebut ke file baru. 
